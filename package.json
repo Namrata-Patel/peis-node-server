@@ -1,0 +1,26 @@
+{
+  "name": "peis-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namrata-Patel/peis-node-server.git"
+  },
+  "author": "Namrata Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namrata-Patel/peis-node-server/issues"
+  },
+  "homepage": "https://github.com/Namrata-Patel/peis-node-server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^14.3.1"
+  }
+}
