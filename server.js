@@ -6,7 +6,8 @@ app.use(express.json());
 const users = [
 {name: 'Harry Potter', id: 1},
 {name: 'Twilight', id: 2},
-{name: 'Lorien Legacies', id: 3}
+{name: 'Lorien Legacies', id: 3},
+{name: 'Test2', id: 4}
 ]
  
  
